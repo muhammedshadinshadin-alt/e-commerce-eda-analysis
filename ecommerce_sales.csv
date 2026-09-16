@@ -1,0 +1,31 @@
+﻿Order_ID,Order_Date,Customer_ID,Customer_Name,Gender,Age,City,State,Category,Product,Quantity,Sales,Discount,Profit,Payment_Mode,Shipping_Days,Customer_Rating
+1001,05-01-2026,C001,Arun,Male,24,Kochi,Kerala,Electronics,Wireless Mouse,2,1200,0.1,240,UPI,3,4
+1002,08-01-2026,C002,Anu,Female,29,Calicut,Kerala,Clothing,T-Shirt,3,1500,0.05,300,Card,4,5
+1003,12-01-2026,C003,Rahul,Male,35,Bangalore,Karnataka,Electronics,Keyboard,1,1800,0.15,270,UPI,5,4
+1004,18-01-2026,C004,Fathima,Female,26,Kochi,Kerala,Home,Frying Pan,2,2200,0.1,440,Cash,3,5
+1005,22-01-2026,C005,Vishnu,Male,31,Chennai,Tamil Nadu,Electronics,Headphones,1,2500,0.2,375,Card,6,3
+1006,03-02-2026,C006,Meera,Female,22,Thrissur,Kerala,Clothing,Jeans,2,3200,0.1,640,UPI,4,4
+1007,07-02-2026,C007,Akash,Male,28,Bangalore,Karnataka,Home,Blender,1,3500,0.05,700,Card,3,5
+1008,11-02-2026,C008,Neha,Female,33,Chennai,Tamil Nadu,Electronics,Smart Watch,1,4500,0.15,675,UPI,5,4
+1009,15-02-2026,C009,Nikhil,Male,40,Kochi,Kerala,Clothing,Jacket,1,2800,0.2,420,Cash,7,3
+1010,20-02-2026,C010,Sandra,Female,27,Calicut,Kerala,Home,Bedsheet,2,1800,0.05,360,UPI,2,5
+1011,02-03-2026,C011,Arjun,Male,25,Kochi,Kerala,Electronics,USB Cable,5,1000,0.1,200,UPI,2,4
+1012,06-03-2026,C012,Diya,Female,30,Bangalore,Karnataka,Clothing,Shoes,1,4000,0.15,600,Card,6,4
+1013,10-03-2026,C013,Manu,Male,37,Chennai,Tamil Nadu,Home,Table Lamp,3,2400,0.1,480,Cash,3,5
+1014,15-03-2026,C014,Aisha,Female,23,Kochi,Kerala,Electronics,Power Bank,2,2200,0.05,440,UPI,4,5
+1015,19-03-2026,C015,Sachin,Male,32,Thrissur,Kerala,Clothing,Shirt,2,2000,0.1,400,Card,5,4
+1016,04-04-2026,C016,Amal,Male,26,Calicut,Kerala,Electronics,Keyboard,2,3600,0.15,540,UPI,4,4
+1017,08-04-2026,C017,Shreya,Female,34,Bangalore,Karnataka,Home,Blender,2,7000,0.05,1400,Card,3,5
+1018,12-04-2026,C018,Rohit,Male,29,Chennai,Tamil Nadu,Electronics,Headphones,2,5000,0.2,750,UPI,6,3
+1019,17-04-2026,C019,Anjali,Female,25,Kochi,Kerala,Clothing,Jeans,1,1600,0.1,320,Cash,4,4
+1020,23-04-2026,C020,Farhan,Male,38,Thrissur,Kerala,Home,Frying Pan,3,3300,0.1,660,UPI,3,5
+1021,03-05-2026,C021,Kevin,Male,27,Bangalore,Karnataka,Electronics,Smart Watch,2,9000,0.15,1350,Card,5,4
+1022,07-05-2026,C022,Aysha,Female,31,Calicut,Kerala,Clothing,Jacket,2,5600,0.2,840,UPI,7,3
+1023,13-05-2026,C023,Joel,Male,36,Kochi,Kerala,Home,Bedsheet,3,2700,0.05,540,Cash,2,5
+1024,19-05-2026,C024,Devika,Female,24,Chennai,Tamil Nadu,Electronics,Power Bank,3,3300,0.05,660,UPI,4,5
+1025,25-05-2026,C025,Abhinav,Male,30,Thrissur,Kerala,Clothing,Shoes,2,8000,0.15,1200,Card,6,4
+1026,02-06-2026,C026,Riya,Female,28,Kochi,Kerala,Electronics,Wireless Mouse,4,2400,0.1,480,UPI,3,4
+1027,09-06-2026,C027,Shyam,Male,42,Bangalore,Karnataka,Home,Table Lamp,2,1600,0.1,320,Cash,3,5
+1028,15-06-2026,C028,Hiba,Female,26,Calicut,Kerala,Electronics,USB Cable,6,1200,0.1,240,UPI,2,4
+1029,21-06-2026,C029,Adarsh,Male,33,Chennai,Tamil Nadu,Clothing,T-Shirt,4,2000,0.05,400,Card,4,5
+1030,28-06-2026,C030,Parvathy,Female,29,Kochi,Kerala,Home,Blender,1,3500,0.05,700,UPI,3,5
